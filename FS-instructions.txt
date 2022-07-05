@@ -7,20 +7,31 @@
 
 // 4. Declare variables
 
-// 5. Create .env file
+// 5. Create .gitignore file
 
-// 6. Establish connection to MongoDB - add connection string to .env file
+// 6. Create .env file
 
-// 7. Add .env file to .gitignore
+// 7. Establish connection to MongoDB - add connection string to .env file
 
-// 8. Create Port
+// 8. Add .env file to .gitignore
 
-// 8.5 Set up nodemon script in package.json ( "dev": "nodemon server.js" )
+// 9. Create Port
+
+// 10 Set up nodemon script in package.json ( "dev": "nodemon server.js" )
 
 // ----Test Mongo and Port connection (node server.js OR npm run dev)
 
-// 9. Set middleware
+// 11. Set middleware
 
-// 10. Create .gitignore file
+// 12. Create Public and Views folders - add main.js and style.css to Public and index.ejs to Views
 
-// 11. Create Public and Views folders - add main.js and style.css to Public and index.ejs to Views
+// 13. Add content to main.js, style.css, index.ejs
+
+// 14. Create heroku repo
+
+// heroku login
+// heroku create full-stack-template
+// echo "web: node server.js" > Procfile
+// git add .
+// git commit -m "changes"
+// git push heroku main
